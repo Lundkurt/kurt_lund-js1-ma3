@@ -1,2 +1,2 @@
 //Question 1:
-const remainder = (a, b) => a % b;
+const getRemainder = (a, b) => a % b;
